@@ -4,7 +4,7 @@ Welcome to my **Daily AWS Challenge Repo** – a dedicated space where I documen
 
 ## 📌 About This Repository
 
-This repository is a personal 30-day challenge focused on mastering core AWS services through real-time, hands-on experience. Each day, I dive into a new AWS topic such as **IAM, EC2, EBS, S3, CloudWatch, VPC, Auto Scaling**, and many more, capturing everything I learn in an organized and practical way.
+This repository is a personal challenge focused on mastering core AWS services through real-time, hands-on experience. Each day, I dive into a new AWS topic such as **IAM, EC2, EBS, S3, CloudWatch, VPC, Auto Scaling**, and many more, capturing everything I learn in an organized and practical way.
 
 ## 🎯 Purpose of This Challenge
 
