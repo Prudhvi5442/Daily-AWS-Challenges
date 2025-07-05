@@ -37,7 +37,7 @@
 
 ### 🎯 IAM User Creation  
 ![IAM User Creation](https://github.com/Prudhvi5442/Daily-AWS-Challenges/blob/6736301ff6b6165bf39ad71f478b7acb4a454e76/day-02-IAM/images/IAM%201.png)
-IAM only readonlu access
+IAM only readonly access
 ![IAM User Creation](https://github.com/Prudhvi5442/Daily-AWS-Challenges/blob/6736301ff6b6165bf39ad71f478b7acb4a454e76/day-02-IAM/images/IAM2.png)
 
 ### IAM  user groups creation
